@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SergeySh97
-- 🌱 I’m currently learning Kotlin
+- 📱 I'm a mobile developer
 - 📫 How to reach me tg: @i_sergo_sh
 
 <!---
